@@ -1,0 +1,9 @@
+starter/CucumberTestSuite.class
+starter/pages/PulsaPage.class
+starter/stepdefinitions/SelectProductsSteps.class
+starter/pages/PaymentPage.class
+starter/stepdefinitions/LoginSteps.class
+starter/pages/GopayPage.class
+starter/pages/DashboardPage.class
+starter/pages/LoginPage.class
+starter/stepdefinitions/SelectPaymentSteps.class
